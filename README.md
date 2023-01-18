@@ -1,4 +1,5 @@
 # Hi there 👋 My name is Ahmed Al-Makhlooq
+### I'm currently a Software Engineering student at KFUPM
 
 <!--
 **Ahmed-T-A/Ahmed-T-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
