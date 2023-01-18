@@ -1,7 +1,18 @@
 # Hi there 👋 My name is Ahmed Al-Makhlooq
-### ![image](https://user-images.githubusercontent.com/119954521/213240987-6f73f73a-99f6-4ba3-ad8c-9180bbfb4f63.png) I'm currently a Software Engineering student at KFUPM
+###  I'm currently a Software Engineering student at KFUPM
 ### ✉️ you can contact me at hamad5232@yahoo.ca
 ---
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!--
 **Ahmed-T-A/Ahmed-T-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
