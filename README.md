@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Makhlooq</h1>
 <h3 align="center">a Software Engineering student at KFUPM</h3>
----
+<hr/>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" hight = "20" width = "20" >  I’m currently learning **Flutter**
 
