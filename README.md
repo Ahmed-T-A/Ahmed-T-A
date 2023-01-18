@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmed_t_a" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed_t_a?logo=twitter&style=for-the-badge" alt="ahmed_t_a" /></a> </p>
 
-- 🌱 ![image|500](https://user-images.githubusercontent.com/119954521/213251470-832de497-a065-496f-bc4d-0bd1bc259d9f.png) I’m currently learning **Flutter**
+- 🌱 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> I’m currently learning **Flutter**
 
 - 📫 How to reach me **hamad5232@yahoo.ca**
 
