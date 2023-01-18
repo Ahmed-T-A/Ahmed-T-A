@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmed_t_a" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed_t_a?logo=twitter&style=for-the-badge" alt="ahmed_t_a" /></a> </p>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" hight = "20" width = "20" > I’m currently learning **Flutter**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" hight = "20" width = "20" >  I’m currently learning **Flutter**
 
 - 📫 How to reach me **hamad5232@yahoo.ca**
 
