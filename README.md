@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Ahmed Al-Makhlooq
+# Hi there 👋 My name is Ahmed Al-Makhlooq
 
 <!--
 **Ahmed-T-A/Ahmed-T-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
