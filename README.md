@@ -1,5 +1,5 @@
 # Hi there 👋 My name is Ahmed Al-Makhlooq
-### I'm currently a Software Engineering student at KFUPM
+### ![image](https://user-images.githubusercontent.com/119954521/213240987-6f73f73a-99f6-4ba3-ad8c-9180bbfb4f63.png) I'm currently a Software Engineering student at KFUPM
 ### ✉️ you can contact me at hamad5232@yahoo.ca
 ---
 
